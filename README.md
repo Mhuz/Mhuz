@@ -1,5 +1,6 @@
 ### 👋 Ciao straniero! I'm Gabriele
 
+
 🤓 I'm currently working as Backend Developer remotely from Italy. Oh, in the meantime I'm also finishing my bachelor's degree!
 
 🌱 At this time my attention was stolen by: **Python** and **Go**
@@ -9,6 +10,7 @@
 ---
 
 ### 🧰 Tech Stack
+
 
 **Languages**  
 Java, C#, Python, SQL
