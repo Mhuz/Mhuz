@@ -1,25 +1,25 @@
 ### 👋 Ciao straniero! I'm Gabriele
 
 
-🤓 I'm currently working as Backend Developer remotely from Italy. Oh, in the meantime I'm also finishing my bachelor's degree!
+  🤓 I'm currently working as Backend Developer remotely from Italy. Oh, in the meantime I'm also finishing my bachelor's degree!
 
-🌱 At this time my attention was stolen by: **Python** and **Go**
+  🌱 At this time my attention was stolen by: **Python** and **Go**
 
-🧠 A bit of an explorer: I love exploring things I don't know, especially about nature and finance (as well as technology of course 👀) 
+  🧠 A bit of an explorer: I love exploring things I don't know, especially about nature and finance (as well as technology of course 👀) 
 
 ---
 
 ### 🧰 Tech Stack
 
 
-**Languages**  
-Java, C#, Python, SQL
+  **Languages**  
+  Java, C#, Python, SQL
 
-**Frameworks**
-Spring Boot, ASP.NET
+  **Frameworks**
+  Spring Boot, ASP.NET
 
-**Databases**  
-OracleDB, MSSQL
+  **Databases**  
+  OracleDB, MSSQL
 
 ---
 
