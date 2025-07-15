@@ -13,10 +13,10 @@
 
 
   **Languages**  
-  Java, C#, Python, SQL
+  Java, Python, SQL
 
   **Frameworks**
-  Spring Boot, ASP.NET
+  Spring Boot 
 
   **Databases**  
   OracleDB, MSSQL
